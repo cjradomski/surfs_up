@@ -1,4 +1,4 @@
-# surfs_up
+# Weather Analysis for Surf and Ice Cream Start-Up
 In this analysis, weather and climate data in Oahu, Hawaii was analyzed to assist the start-up of a surf and ice-cream shop. 
 
 Based on our analysis the June temperatures consists of 1,700 datapoints, a mean of 75 degrees, a minimum of 64 degrees, a maximum of 85 degrees, and a standard deviation of 3.3. The December temperatures consists of 1,517 datapoints, a mean of 71 degrees, a minimum of 56 degrees, a maximum of 83 degrees, and a standard deviation of 3.7. It appears there is a difference of only 2-4 degrees between the months of June and July regarding average and maximum temperature. However, there is an 8 degree difference between minimum temperatures. December had lower temperatures between minimums, maximums, and averages. Overall there aren’t major differences between temperatures between winter and summer months. In addition, based on our previous analysis of precipitation, both December and June were months that did not have high precipitation levels. Weather seems to have a positive outlook for the winter and summer months. 
